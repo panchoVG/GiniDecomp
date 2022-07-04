@@ -1,0 +1,125 @@
+Year,Race,Sex,Population,Share
+1970,Black or African American,Females,11804452,11.3
+1970,White,Females,91552193,87.5
+1980,Black or African American,Females,14141790,12.1
+1980,White,Females,99703149,85.2
+1990,Black or African American,Females,16145459,13.1
+1990,White,Females,106873383,86.9
+1991,Black or African American,Females,16481004,13.2
+1991,White,Females,107947964,86.8
+1992,Black or African American,Females,16825671,13.4
+1992,White,Females,109043355,86.6
+1993,Black or African American,Females,17163292,13.5
+1993,White,Females,110119215,86.5
+1994,Black or African American,Females,17487117,13.6
+1994,White,Females,111130529,86.4
+1995,Black or African American,Females,17790766,13.7
+1995,White,Females,112106450,86.3
+1996,Black or African American,Females,18084860,13.8
+1996,White,Females,113067465,86.2
+1997,Black or African American,Females,18388325,13.9
+1997,White,Females,114071434,86.1
+1998,Black or African American,Females,18686380,14
+1998,White,Females,115048342,86
+1999,Black or African American,Females,18978030,14.1
+1999,White,Females,115991916,85.9
+2000,Black or African American,Females,19252974,14.1
+2000,White,Females,116850132,85.9
+2001,Black or African American,Females,19515524,14.2
+2001,White,Females,117610067,85.8
+2002,Black or African American,Females,19770726,14.3
+2002,White,Females,118338604,85.7
+2003,Black or African American,Females,20015421,14.4
+2003,White,Females,119049621,85.6
+2004,Black or African American,Females,20277329,14.5
+2004,White,Females,119757684,85.5
+2005,Black or African American,Females,20551032,14.6
+2005,White,Females,120479718,85.4
+2006,Black or African American,Females,20840468,14.7
+2006,White,Females,121250204,85.3
+2007,Black or African American,Females,21142428,14.8
+2007,White,Females,122027092,85.2
+2008,Black or African American,Females,21446016,14.9
+2008,White,Females,122797904,85.1
+2009,Black or African American,Females,21744516,15
+2009,White,Females,123505997,85
+2010,Black or African American,Females,22029315,15.1
+2010,White,Females,124174287,84.9
+2011,Black or African American,Females,22275796,15.2
+2011,White,Females,124740348,84.8
+2012,Black or African American,Females,22527912,15.2
+2012,White,Females,125285509,84.8
+2013,Black or African American,Females,22775082,15.3
+2013,White,Females,125786382,84.7
+2014,Black or African American,Females,23030447,15.4
+2014,White,Females,126337548,84.6
+2015,Black or African American,Females,23287548,15.5
+2015,White,Females,126871162,84.5
+2016,Black or African American,Females,23546397,15.6
+2016,White,Females,127423348,84.4
+2017,Black or African American,Females,23789388,15.7
+2017,White,Females,127894939,84.3
+2018,Black or African American,Females,24010089,15.8
+2018,White,Females,128295198,84.2
+2019,Black or African American,Females,24220575,15.8
+2019,White,Females,128624145,84.2
+1970,Black or African American,Males,10677864,10.8
+1970,White,Males,86718259,87.9
+1980,Black or African American,Males,12556477,11.4
+1980,White,Males,94486930,85.9
+1990,Black or African American,Males,14502886,12.4
+1990,White,Males,102493278,87.6
+1991,Black or African American,Males,14809739,12.5
+1991,White,Males,103658047,87.5
+1992,Black or African American,Males,15154311,12.6
+1992,White,Males,104902267,87.4
+1993,Black or African American,Males,15471443,12.7
+1993,White,Males,106067858,87.3
+1994,Black or African American,Males,15771864,12.8
+1994,White,Males,107174245,87.2
+1995,Black or African American,Males,16056540,12.9
+1995,White,Males,108278333,87.1
+1996,Black or African American,Males,16330618,13
+1996,White,Males,109352585,87
+1997,Black or African American,Males,16619354,13.1
+1997,White,Males,110482030,86.9
+1998,Black or African American,Males,16907760,13.2
+1998,White,Males,111599777,86.8
+1999,Black or African American,Males,17195091,13.2
+1999,White,Males,112695874,86.8
+2000,Black or African American,Males,17475735,13.3
+2000,White,Males,113696833,86.7
+2001,Black or African American,Males,17734251,13.4
+2001,White,Males,114582599,86.6
+2002,Black or African American,Males,17977698,13.5
+2002,White,Males,115381931,86.5
+2003,Black or African American,Males,18194320,13.6
+2003,White,Males,116075451,86.4
+2004,Black or African American,Males,18461469,13.6
+2004,White,Males,116912350,86.4
+2005,Black or African American,Males,18729699,13.7
+2005,White,Males,117707377,86.3
+2006,Black or African American,Males,19016639,13.8
+2006,White,Males,118555067,86.2
+2007,Black or African American,Males,19308680,13.9
+2007,White,Males,119363736,86.1
+2008,Black or African American,Males,19602943,14
+2008,White,Males,120168475,86
+2009,Black or African American,Males,19887934,14.1
+2009,White,Males,120882836,85.9
+2010,Black or African American,Males,20169586,14.2
+2010,White,Males,121569033,85.8
+2011,Black or African American,Males,20423149,14.3
+2011,White,Males,122169584,85.7
+2012,Black or African American,Males,20685937,14.4
+2012,White,Males,122798526,85.6
+2013,Black or African American,Males,20939376,14.5
+2013,White,Males,123363764,85.5
+2014,Black or African American,Males,21198902,14.6
+2014,White,Males,123970368,85.4
+2015,Black or African American,Males,21462805,14.7
+2015,White,Males,124585665,85.3
+2016,Black or African American,Males,21720355,14.8
+2016,White,Males,125182419,85.2
+2017,Black or African American,Males,21958214,14.9
+2017,White,Males,125681863,85.1
