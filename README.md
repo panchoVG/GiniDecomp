@@ -1,6 +1,6 @@
-# Group- and individual-based approaches to health inequality: Towards an integration
+# Group- and individual-based approaches to health inequality: towards an integration
 
-Supporting information for GROUP- AND INDIVIDUAL-BASED APPROACHES TO HEALTH INEQUALITY: TOWARDS AN INTEGRATION by Iñaki PERMANYER, Isaac SASSON, and Francisco VILLAVICENCIO.
+Supporting information for GROUP- AND INDIVIDUAL-BASED APPROACHES TO HEALTH INEQUALITY: TOWARDS AN INTEGRATION by Iñaki PERMANYER, Isaac SASSON, and Francisco VILLAVICENCIO, published at Journal of the Royal Statistical Society Series A: Statistics in Society 186(2): 217–240 (2023). https://doi.org/10.1093/jrsssa/qnac001.
 
 This repository contains the following files and folders:
 
